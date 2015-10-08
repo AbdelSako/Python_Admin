@@ -1,5 +1,6 @@
 # Python_Admin
-Examples: Administrative tasks
+Administrative tasks.
+
 The python programs in this branch are just for proving my programming skills in python.
 You can modify it at will and redistribute it.
 
